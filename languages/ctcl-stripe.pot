@@ -1,0 +1,71 @@
+# Copyright (C) 2020 Ujwol Bastakoti
+# This file is distributed under the same license as the CTCL Stripe plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: CTCL Stripe 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ctcl-stripe\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-11-29T01:52:01+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: ctcl-stripe\n"
+
+#. Plugin Name of the plugin
+msgid "CTCL Stripe"
+msgstr ""
+
+#. Description of the plugin
+msgid "CT commerce lite stripe payments addon, ecommerce"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ujwol Bastakoti"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://ujw0l.github.io/"
+msgstr ""
+
+#: ctcl-stripe.php:143
+msgid "Activate Stripe :"
+msgstr ""
+
+#: ctcl-stripe.php:146
+msgid "Frontend Option Label :"
+msgstr ""
+
+#: ctcl-stripe.php:149
+msgid "Test Publishable Key :"
+msgstr ""
+
+#: ctcl-stripe.php:151
+msgid "Test Secret Key : "
+msgstr ""
+
+#: ctcl-stripe.php:154
+msgid "Test Mode :"
+msgstr ""
+
+#: ctcl-stripe.php:157
+msgid "Live Publishable Key :"
+msgstr ""
+
+#: ctcl-stripe.php:159
+msgid "Live Secret Key : "
+msgstr ""
+
+#: ctcl-stripe.php:166
+msgid "Stripe Payment"
+msgstr ""
+
+#: ctcl-stripe.php:197
+msgid "Failed to charge your card."
+msgstr ""
+
+#: ctcl-stripe.php:221
+msgid "CTCL Stripe Plugin requires CTC Lite plugin installed and activated to work, please do so first."
+msgstr ""
